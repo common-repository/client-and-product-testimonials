@@ -1,0 +1,2301 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Client and Product Testimonials\n"
+"POT-Creation-Date: 2015-10-18 11:38-0400\n"
+"PO-Revision-Date: 2015-09-26 13:45-0400\n"
+"Last-Translator: Evan Herman <evan.m.herman@gmail.com>\n"
+"Language-Team: EH Dev Shop <http://www.Evan-Herman.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e;_x;esc_attr__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././client-and-product-testimonials.php:124
+#, php-format
+msgid "%d New Testimonial"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:149
+msgid "Client and Product Testimonial - No Image"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:217
+msgid "Testimonial Shortcode Generator"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:217
+msgid "Add Testimonial"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:229
+#: .././lib/admin/options/options-page.php:33
+msgid "Settings"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:230
+msgid "More Plugins by EH Dev Shop"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:253
+msgid ""
+"This testimonial is currently pending a review. It will not appear on the "
+"site until you publish it."
+msgstr ""
+
+#: .././client-and-product-testimonials.php:261
+msgid ""
+"The following testimonials are pending a review. They will not appear on "
+"your site until they are reviewed and published."
+msgstr ""
+
+#: .././client-and-product-testimonials.php:262
+#, php-format
+msgid ""
+"Your customers can submit testimonials through a front end form which can be "
+"displayed by using the shortcode %s"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:276
+msgid ""
+"Hey! It looks like you've been enjoying <strong>Client and Product "
+"Testimonials Pro</strong> for 2 weeks now. We would love it if you could "
+"leave us a review to let us know how were doing. Reviews provide us with "
+"feedback to grow and improve the plugin. If you're really loving the plugin, "
+"please consider sharing your experience witht others!"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:280
+msgid "Leave A Review"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:283
+msgid ""
+"I love Client and Product Testimonials Lite! So simple, yet so powerful. Give "
+"it a try - http://j.mp/capt-pro #WordPress @EvanMHerman"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:288
+msgid "Tweet it!"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:289
+msgid "Tweet About It"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:292
+msgid "View Other Plugins"
+msgstr ""
+
+#: .././client-and-product-testimonials.php:295
+msgid "Dismiss"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:82
+msgid "Test Metabox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:93
+#: .././lib/admin/CMB2/example-functions.php:380
+msgid "Test Text"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:94
+#: .././lib/admin/CMB2/example-functions.php:106
+#: .././lib/admin/CMB2/example-functions.php:114
+#: .././lib/admin/CMB2/example-functions.php:122
+#: .././lib/admin/CMB2/example-functions.php:131
+#: .././lib/admin/CMB2/example-functions.php:139
+#: .././lib/admin/CMB2/example-functions.php:153
+#: .././lib/admin/CMB2/example-functions.php:160
+#: .././lib/admin/CMB2/example-functions.php:168
+#: .././lib/admin/CMB2/example-functions.php:185
+#: .././lib/admin/CMB2/example-functions.php:194
+#: .././lib/admin/CMB2/example-functions.php:202
+#: .././lib/admin/CMB2/example-functions.php:209
+#: .././lib/admin/CMB2/example-functions.php:216
+#: .././lib/admin/CMB2/example-functions.php:230
+#: .././lib/admin/CMB2/example-functions.php:243
+#: .././lib/admin/CMB2/example-functions.php:256
+#: .././lib/admin/CMB2/example-functions.php:268
+#: .././lib/admin/CMB2/example-functions.php:277
+#: .././lib/admin/CMB2/example-functions.php:285
+#: .././lib/admin/CMB2/example-functions.php:294
+#: .././lib/admin/CMB2/example-functions.php:301
+#: .././lib/admin/CMB2/example-functions.php:315
+#: .././lib/admin/CMB2/example-functions.php:381
+#: .././lib/admin/CMB2/example-functions.php:475
+#: .././lib/admin/CMB2/example-functions.php:483
+#: .././lib/admin/CMB2/example-functions.php:490
+#: .././lib/admin/CMB2/example-functions.php:497
+#: .././lib/admin/CMB2/example-functions.php:504
+#: .././lib/admin/CMB2/example-functions.php:511
+#: .././lib/admin/CMB2/example-functions.php:518
+#: .././lib/admin/CMB2/example-functions.php:556
+msgid "field description (optional)"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:105
+msgid "Test Text Small"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:113
+msgid "Test Text Medium"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:121
+msgid "Website URL"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:130
+msgid "Test Text Email"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:138
+msgid "Test Time"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:145
+#: .././lib/admin/CMB2/example-functions.php:146
+msgid "Time zone"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:152
+msgid "Test Date Picker"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:201
+msgid "Test Text Area"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:223
+msgid "This is a title description"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:229
+msgid "Test Select"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:235
+#: .././lib/admin/CMB2/example-functions.php:248
+#: .././lib/admin/CMB2/example-functions.php:260
+msgid "Option One"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:236
+#: .././lib/admin/CMB2/example-functions.php:249
+#: .././lib/admin/CMB2/example-functions.php:261
+msgid "Option Two"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:237
+#: .././lib/admin/CMB2/example-functions.php:250
+#: .././lib/admin/CMB2/example-functions.php:262
+msgid "Option Three"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:242
+msgid "Test Radio inline"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:255
+msgid "Test Radio"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:293
+msgid "Test Checkbox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:300
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:306
+msgid "Check One"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:307
+msgid "Check Two"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:308
+msgid "Check Three"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:322
+msgid "Test Image"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:323
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:329
+msgid "Multiple Files"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:337
+msgid "oEmbed"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:338
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:371
+msgid "About Page Metabox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:410
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:412
+msgid "Entry {#}"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:413
+msgid "Add Another Entry"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:414
+msgid "Remove Entry"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:426
+msgid "Entry Title"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:433
+msgid "Description"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:434
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:440
+msgid "Entry Image"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:446
+msgid "Image Caption"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:474
+msgid "Extra Info"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:540
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: .././lib/admin/CMB2/example-functions.php:555
+msgid "Site Background Color"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Field.php:891
+msgid "Add Group"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Field.php:892
+msgid "Remove Group"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Field.php:914
+#: .././lib/admin/CMB2/includes/CMB2_Field.php:918
+#: .././lib/admin/capt-helpers.php:40
+msgid "None"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:86
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:109
+msgid "mm/dd/yy"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:118
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:129
+msgid "hh:mm TT"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:136
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:983
+msgid "Remove Image"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:137
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:356
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:1002
+msgid "Remove"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:138
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:997
+msgid "File:"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:139
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:1000
+msgid "Download"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:734
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:782
+msgid "No terms"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:847
+msgid "Add or Upload Files"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/CMB2_Types.php:907
+msgid "Add or Upload File"
+msgstr ""
+
+#: .././lib/admin/CMB2/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:40
+msgid "Parameters"
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:65
+#: .././lib/public/shortcodes/testimonial-submission-form.php:91
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:66
+#, php-format
+msgid "Select which %s to display in this slider."
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:73
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:116
+#: .././lib/public/widgets/testimonial-list-widget.php:106
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:89
+#, php-format
+msgid ""
+"It looks like you haven't setup any %s yet, or you haven't assigned any "
+"testimonials to them."
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:114
+msgid "Select Testimonial(s) to Display"
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:144
+#, php-format
+msgid "Select %s to Display"
+msgstr ""
+
+#: .././lib/admin/capt-helpers.php:170
+msgid "Select a Transition Effect"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:83
+#: .././lib/admin/cpt/testimonial-cpt.php:85
+#: .././lib/admin/cpt/testimonial-cpt.php:86
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:77
+#: .././lib/public/widgets/testimonial-list-widget.php:71
+msgid "Testimonials"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:84
+#: .././lib/public/shortcodes/testimonial-submission-form.php:141
+msgid "Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:87
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:88
+msgid "All Testimonials"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:89
+msgid "Add New Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:90
+#: .././lib/admin/cpt/testimonial-cpt.php:91
+msgid "New Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:92
+msgid "Edit Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:93
+msgid "Update Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:94
+msgid "View Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:95
+msgid "Search Testimonials"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:96
+msgid "Testimonial Not found"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:97
+msgid "Not found in Trash"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:100
+msgid "testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:101
+msgid "Testimonials for all of our plugins"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:128
+#: .././lib/admin/cpt/testimonial-cpt.php:130
+msgid "Products"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:129
+msgid "Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:131
+msgid "All Products"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:132
+msgid "Parent Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:133
+msgid "Parent Products:"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:134
+msgid "New Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:135
+msgid "Add New Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:136
+msgid "Edit Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:137
+msgid "Update Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:138
+msgid "View Product"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:139
+msgid "Separate products with commas"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:140
+msgid "Add or remove products"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:142
+msgid "Popular Products"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:143
+msgid "Search Products"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:144
+msgid "Product Not Found"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:164
+#: .././lib/admin/cpt/testimonial-cpt.php:166
+msgid "Clients"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:165
+msgid "Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:167
+msgid "All Clients"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:168
+msgid "Parent Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:169
+msgid "Parent Clients:"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:170
+msgid "New Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:171
+msgid "Add New Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:172
+msgid "Edit Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:173
+msgid "Update Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:174
+msgid "View Client"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:175
+msgid "Separate clients with commas"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:176
+msgid "Add or remove clients"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:178
+msgid "Popular Clients"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:179
+msgid "Search Clients"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:180
+msgid "Client Not Found"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:205
+#: .././lib/admin/cpt/testimonial-cpt.php:208
+msgid "Testimonial Successfully Updated."
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:206
+msgid "Custom Field Successfully Updated."
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:207
+msgid "Custom Field Successfully Deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: .././lib/admin/cpt/testimonial-cpt.php:210
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:211
+msgid "Testimonial Successfully Published."
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:212
+msgid "Testimonial Successfully Saved."
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:213
+msgid "Testimonial Successfully Submitted."
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:215
+#, php-format
+msgid "Testimonial Scheduled For: <strong>%1$s</strong>."
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: .././lib/admin/cpt/testimonial-cpt.php:217
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:219
+msgid "Testimonial Draft Updated."
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:246
+msgid "Set featured image"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:246
+msgid "Upload User Image"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:247
+msgid "Remove featured image"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:247
+msgid "Remove User Image"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:259
+#: .././lib/public/shortcodes/testimonial-submission-form.php:54
+#: .././lib/public/shortcodes/testimonial-submission-form.php:60
+#: .././lib/public/shortcodes/testimonial-submission-form.php:66
+msgid "User Image"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:278
+msgid "Approve Testimonial"
+msgstr ""
+
+#: .././lib/admin/cpt/testimonial-cpt.php:288
+msgid "Needs Review"
+msgstr ""
+
+#: .././lib/admin/frontend-ratings/frontend-post-page-ratings.php:70
+#: .././lib/admin/frontend-ratings/frontend-post-page-ratings.php:164
+#, php-format
+msgid "You rated this %s star"
+msgstr ""
+
+#: .././lib/admin/frontend-ratings/frontend-post-page-ratings.php:91
+#: .././lib/admin/frontend-ratings/frontend-post-page-ratings.php:163
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: .././lib/admin/frontend-ratings/frontend-post-page-ratings.php:93
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:33
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:271
+#: .././lib/public/shortcodes/testimonial-submission-form.php:131
+msgid "Rating"
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-easy-digital-downloads.php:33
+#: .././lib/admin/import-product-classes/class-woocommerce.php:33
+msgid ""
+"Whoops! It looks like we encountered an error during the import. Please try "
+"again."
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-easy-digital-downloads.php:43
+#, php-format
+msgid "%s Easy Digital Download product successfully imported."
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-easy-digital-downloads.php:69
+#: .././lib/admin/import-product-classes/class-woocommerce.php:69
+msgid "Please create some downloads."
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-easy-digital-downloads.php:70
+#: .././lib/admin/import-product-classes/class-woocommerce.php:70
+msgid ""
+"You need to create some Easy Digital Download products before you can import "
+"anything here."
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-easy-digital-downloads.php:86
+msgid "Import Easy Digital Download Products"
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-woocommerce.php:43
+#, php-format
+msgid "%s WooCommerce product successfully imported."
+msgstr ""
+
+#: .././lib/admin/import-product-classes/class-woocommerce.php:86
+msgid "Import WooCommerce Products"
+msgstr ""
+
+#: .././lib/admin/metaboxes/partials/about-metabox-template.php:38
+msgid "Help!"
+msgstr ""
+
+#: .././lib/admin/metaboxes/partials/about-metabox-template.php:39
+msgid "Review"
+msgstr ""
+
+#: .././lib/admin/metaboxes/partials/about-metabox-template.php:40
+msgid "Donate"
+msgstr ""
+
+#: .././lib/admin/metaboxes/partials/about-metabox-template.php:50
+msgid "this plugin was made with "
+msgstr ""
+
+#: .././lib/admin/metaboxes/partials/about-metabox-template.php:50
+msgid "by"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:21
+#, php-format
+msgid "Linked %s"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:34
+msgid "Set the rating for this testimonial."
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:46
+#, php-format
+msgid "%s Associaton"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:47
+#, php-format
+msgid "Select which %s to assign this testimonial to."
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:50
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:55
+msgid "Product/Client Association"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:56
+msgid ""
+"This field should be hidden. If you are currently able to see it, we may "
+"have an issue."
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:67
+#: .././lib/public/shortcodes/testimonial-submission-form.php:113
+msgid "Position at Company"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:68
+msgid "Input this users position at the company assigned above."
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:71
+#: .././lib/public/shortcodes/testimonial-submission-form.php:114
+msgid "Product Manager"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:76
+#: .././lib/public/shortcodes/testimonial-submission-form.php:126
+msgid "Website"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:77
+msgid "Input this users website to link back to."
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:89
+msgid "About"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:157
+msgid "Persons Name"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:172
+#, php-format
+msgid "%s star"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:203
+#, php-format
+msgid "%s out of 5"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:203
+#, php-format
+msgid "%s review"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:256
+msgid "Not Set"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:270
+#: .././lib/public/shortcodes/testimonial-submission-form.php:42
+msgid "Name"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:273
+msgid "Created"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:290
+msgid "No Image Set"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:359
+msgid "Testimonial Pending Review"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:359
+msgid "Pending Review"
+msgstr ""
+
+#: .././lib/admin/metaboxes/testimonial-metaboxes.php:386
+#, php-format
+msgid "Show All %s"
+msgstr ""
+
+#: .././lib/admin/options/capt_post_type_selection.php:50
+#, php-format
+msgid ""
+"Enabling post/page reviews will allow %s to rate posts using a star rating "
+"field on a 5 point scale. Logged in users may only review posts or pages 1 "
+"time."
+msgstr ""
+
+#: .././lib/admin/options/capt_post_type_selection.php:50
+msgid "logged in users"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:65
+msgid "Client and Product Testimonial settings successfully updated."
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:93
+msgid "Client and Product Testimonials Lite Settings"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:110
+msgid "Documentation"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:124
+msgid "Clients or Products"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:125
+msgid "Select which type of testimonial you want to display."
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:136
+msgid "Grid Image Size"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:137
+msgid ""
+"Set the size of the grid images. These are client logos or user images based "
+"on the type set above and will remain proportional. (ie: 220x220)"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:148
+msgid "Grid Excerpt"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:149
+msgid ""
+"Set the length of the excerpt that overlays over the image, in characters. "
+"(default: 125 characters. Images 150px and smaller will not display an "
+"excerpt.)"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:160
+msgid "Enable Star Ratings"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:161
+msgid ""
+"When clients submit new testimonials, should they be allowed to leave a star "
+"rating as well?"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:171
+msgid "Empty Star Visibility"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:172
+msgid ""
+"Toggle the visibility of empty stars on the front end of the site. (eg: 3 "
+"star rating will show 3 stars instead of 3 stars and 2 empty ones)"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:176
+msgid "Visible"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:177
+msgid "Hidden"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:182
+msgid "Fallback Image"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:183
+msgid ""
+"If a testimonial doesn't have a profile photo assigned to it, should the "
+"fallback image be used?"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:187
+msgid "Use Fallback Image"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:188
+msgid "Exclude Profile Photo"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:193
+msgid "No Profile Photo Image"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:194
+msgid ""
+"Select a fallback image to display when the user has not set a profile photo."
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:203
+msgid "Schema Datatype"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:204
+#, php-format
+msgid "For more info, see: %s and %s."
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:204
+msgid "Schema Datatypes"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:207
+msgid "Schema Markup"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:240
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:242
+#, php-format
+msgid ""
+"Note: Everytime you change this option you should regenerate the testimonial "
+"thumbnails. Recommended Plugin: %s"
+msgstr ""
+
+#: .././lib/admin/options/options-page.php:242
+msgid "Regenerate Thumbnails by Viper007Bond"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:15
+msgid ""
+"You should select the appropriate category your business falls under which "
+"the users are reviewing."
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:18
+msgid "Airline"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:19
+msgid "Corporation"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:21
+msgid "Educational Organization (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:22
+msgid "College Or University"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:23
+msgid "Elementary School"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:24
+msgid "High School"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:25
+msgid "Middle School"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:26
+msgid "School"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:28
+msgid "Government Organization"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:30
+msgid "Local Business (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:31
+msgid "Animal Shelter"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:32
+msgid "Automotive Business (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:33
+msgid "Auto Body Shop"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:34
+msgid "Auto Dealer"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:35
+msgid "Auto Parts Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:36
+msgid "Auto Rental"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:37
+msgid "Auto Repair"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:38
+msgid "Auto Wash"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:39
+msgid "Gas Station"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:40
+msgid "Motorcycle Dealer"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:41
+msgid "Motorcycle Repair"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:42
+msgid "ChildCare"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:43
+msgid "Dry Cleaning Or Laundry"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:44
+msgid "EmergencyService (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:45
+msgid "Fire Station"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:46
+msgid "Hospital"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:47
+msgid "Police Station"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:48
+msgid "Employment Agency"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:49
+msgid "Entertainment Business (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:50
+msgid "Adult Entertainment"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:51
+msgid "Amusement Park"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:52
+msgid "Art Gallery"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:53
+msgid "Casino"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:54
+msgid "Comedy Club"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:55
+msgid "Movie Theater"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:56
+msgid "Financial Service (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:57
+#: .././lib/admin/options/schema_datatype_select.php:104
+msgid "Accounting Service"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:58
+msgid "Automated Teller"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:59
+msgid "Bank Or Credit Union"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:60
+msgid "Insurance Agency"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:61
+msgid "Food Establishment (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:62
+msgid "Bakery"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:63
+msgid "Bar Or Pub"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:64
+msgid "Brewery"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:65
+msgid "Cafe Or Coffee Shop"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:66
+msgid "Fast Food Restaurant"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:67
+msgid "Ice Cream Shop"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:68
+msgid "Restaurant"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:69
+msgid "Winery"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:70
+msgid "Government Office (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:71
+msgid "Post Office"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:72
+msgid "Health And Beauty Business (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:73
+msgid "Beauty Salon"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:74
+msgid "Day Spa"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:75
+msgid "Hair Salon"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:76
+#: .././lib/admin/options/schema_datatype_select.php:122
+msgid "Health Club"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:77
+msgid "Nail Salon"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:78
+msgid "Tattoo Parlor"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:79
+msgid "Home And Construction Business (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:80
+#: .././lib/admin/options/schema_datatype_select.php:106
+msgid "Electrician"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:81
+#: .././lib/admin/options/schema_datatype_select.php:107
+msgid "General Contractor"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:82
+msgid "HVAC Business"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:83
+#: .././lib/admin/options/schema_datatype_select.php:108
+msgid "House Painter"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:84
+#: .././lib/admin/options/schema_datatype_select.php:109
+msgid "Locksmith"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:85
+msgid "Moving Company"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:86
+#: .././lib/admin/options/schema_datatype_select.php:111
+msgid "Plumber"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:87
+#: .././lib/admin/options/schema_datatype_select.php:112
+msgid "Roofing Contractor"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:88
+msgid "Internet Cafe"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:89
+msgid "Library"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:90
+msgid "Lodging Business (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:91
+msgid "Bed And Breakfast"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:92
+msgid "Hostel"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:93
+msgid "Hotel"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:94
+msgid "Motel"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:95
+msgid "Medical Organization (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:96
+msgid "Dentist"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:97
+msgid "Diagnostic Lab"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:98
+msgid "Medical Clinic"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:99
+msgid "Optician"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:100
+msgid "Pharmacy"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:101
+msgid "Physician"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:102
+msgid "Veterinary Care"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:103
+msgid "Professional Service (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:105
+msgid "Attorney"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:110
+msgid "Notary"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:113
+msgid "Radio Station"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:114
+msgid "Real Estate Agent"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:115
+msgid "Recycling Center"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:116
+msgid "Self Storage"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:117
+msgid "Shopping Center"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:118
+msgid "Sports Activity Location (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:119
+msgid "Bowling Alley"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:120
+msgid "Exercise Gym"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:121
+msgid "Golf Course"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:123
+msgid "Public Swimming Pool"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:124
+msgid "Ski Resort"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:125
+msgid "Sports Club"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:126
+msgid "Stadium Or Arena"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:127
+msgid "Tennis Complex"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:128
+msgid "Store (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:129
+msgid "Bike Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:130
+msgid "Book Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:131
+msgid "Clothing Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:132
+msgid "Computer Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:133
+msgid "Convenience Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:134
+msgid "Department Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:135
+msgid "Electronics Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:136
+msgid "Furniture Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:137
+msgid "Garden Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:138
+msgid "Grocery Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:139
+msgid "Hardware Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:140
+msgid "Hobby Shop"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:141
+msgid "Home Goods Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:142
+msgid "Jewelry Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:143
+msgid "Liquor Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:144
+msgid "Mens Clothing Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:145
+msgid "Mobile Phone Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:146
+msgid "Movie Rental Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:147
+msgid "Music Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:148
+msgid "Office Equipment Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:149
+msgid "Outlet Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:150
+msgid "Pawn Shop"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:151
+msgid "Pet Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:152
+msgid "Shoe Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:153
+msgid "Sporting Goods Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:154
+msgid "Tire Shop"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:155
+msgid "Toy Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:156
+msgid "Wholesale Store"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:157
+msgid "Television Station"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:158
+msgid "Tourist Information Center"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:159
+msgid "Travel Agency"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:161
+msgid "NGO"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:163
+msgid "Performing Group (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:164
+msgid "Dance Group"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:165
+msgid "Music Group"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:166
+msgid "Theater Group"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:169
+msgid "Sports Organization (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:170
+msgid "Sports Team"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:178
+msgid "Select the category which your product best falls under."
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:183
+msgid "Products (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:184
+msgid "Individual Product"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:185
+msgid "Product Model"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:186
+msgid "Some Products"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:187
+msgid "Vehicle (generic)"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:188
+msgid "Car"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:211
+#, php-format
+msgid "For more information about the schema data you have selected %s"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:211
+msgid "Click Here"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:212
+#, php-format
+msgid ""
+"Schema helps with SEO and increases visibility on the web. Google may use "
+"this schema markup to create rich snippets of your reviews in Google "
+"searches. %s"
+msgstr ""
+
+#: .././lib/admin/options/schema_datatype_select.php:212
+msgid "Example"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:7
+msgid "Automatic"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:8
+msgid "Should this slideshow slide to the next testimonial automatically?"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:9
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:29
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:19
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:31
+msgid "Yes"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:10
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:30
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:18
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:30
+msgid "No"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:14
+msgid "Duration"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:15
+msgid ""
+"Time to display each testimonial before transitioning to the next one. (in "
+"seconds)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:16
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:151
+msgid "seconds"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:20
+msgid "Transition"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:21
+msgid "Select the type of transition to use between slides."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:22
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:134
+msgid "Fade"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:23
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:135
+msgid "Slide"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:27
+msgid "Display Controls"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/fade-slider-fields.php:28
+msgid ""
+"Time to display each testimonial before transitioning to the next one. "
+"(5000ms = 5s)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:3
+msgid ""
+"Assigning multiple testimonials (or assigning none) will select and display "
+"one at random on each page load."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:7
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:19
+msgid "Image Border Radius"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:8
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:20
+msgid "Select the border type for each testimnoial image."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:9
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:21
+msgid "Square"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:10
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:22
+msgid "Rounded Small"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:11
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:23
+msgid "Rounded Medium"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:12
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:24
+msgid "Circle"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:16
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:28
+msgid "Grayscale Images"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/full-width-fields.php:17
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:29
+msgid ""
+"Grayscale images will load in grayscale and when hovered on will fade to "
+"full color."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:3
+msgid ""
+"Assigning multiple products/clients will create a dynamic, random, grid of "
+"testimonials from the selected taxonomy."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:7
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:13
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:7
+msgid "Limit"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:8
+msgid ""
+"Limit the number of testimonials to display in the grid. (set to -1 to "
+"display all testimonials)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:9
+msgid "testimonials"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:13
+msgid "Main Font Color"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:14
+msgid "Set the color of the font for the product/client."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:19
+msgid "Secondary Font Color"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/grid-fields.php:20
+msgid "Set the color of the testimonial excerpt."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:7
+msgid "Columns"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:8
+msgid "Set the number of columns of this list."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:9
+msgid "column(s)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:14
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:8
+msgid ""
+"Set the number of testimonials to display in this list. (set to -1 for no "
+"limit)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/list-fields.php:15
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:9
+msgid "testimonial(s)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:13
+msgid "Transition Effect"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:18
+msgid "Automatic Transition"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:19
+msgid ""
+"How long should each testimonial be visible for before transitioning to the "
+"next slide? (set to 0 to disable automatic transitions)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:20
+msgid "second(s)"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:24
+msgid "Quote Location"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:25
+msgid ""
+"Select whether to place the the quote slider above or below the thumbnails."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:26
+msgid "Above Thumbnails"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:27
+msgid "Below Thumbnails"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:31
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:34
+msgid "Color Overlay"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:32
+msgid ""
+"Select the color style for this image. Set a color overlay or make the "
+"images grayscale."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/sections/thumbnail-slider-fields.php:33
+msgid "Grayscale"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:12
+msgid "Step 1"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:13
+msgid "Select which testimonial to generate."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:18
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:12
+msgid "Testimonial Fade Slider"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:19
+msgid "Fade Slider"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:24
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:25
+msgid "Testimonial Full Width"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:30
+msgid "Testimonial Grid"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:31
+msgid "Grid"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:36
+#: .././lib/public/widgets/testimonial-list-widget.php:12
+msgid "Testimonial List"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:37
+msgid "List"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:42
+msgid "Testimonial Thumbnail Slider"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:43
+msgid "Thumbnail Slider"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:48
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:49
+msgid "Testimonial Submission Form"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:55
+msgid "Step 2"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:56
+msgid "Set the parameters for the chosen shortcode."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:83
+msgid "Step 3"
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:84
+msgid ""
+"Click \"Insert Shortcode\" to place the shortcode in your page, or copy the "
+"shortcode to use it elsewhere on your site."
+msgstr ""
+
+#: .././lib/admin/shortcode-generator/testimonial-shortcode-generator.php:90
+msgid "Insert Shortcode"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-aggregate-reviews.php:62
+#, php-format
+msgid "%s Review"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-aggregate-reviews.php:77
+#: .././lib/public/shortcodes/testimonial-fade-slider-widget.php:158
+#: .././lib/public/shortcodes/testimonial-fade-slider.php:160
+#: .././lib/public/shortcodes/testimonial-list-shortcode.php:177
+msgid "No testimonials found."
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-fade-slider.php:132
+#: .././lib/public/shortcodes/testimonial-full-width.php:95
+#: .././lib/public/shortcodes/testimonial-grid-shortcode.php:147
+#: .././lib/public/shortcodes/testimonial-grid-shortcode.php:182
+#: .././lib/public/shortcodes/testimonial-list-shortcode.php:134
+#: .././lib/public/shortcodes/testimonial-thumbnail-slider.php:179
+msgid "No Image Provided"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-full-width.php:109
+msgid "Testimonial not found."
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:24
+msgid "Thank you for your submission!"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:43
+msgid "Please enter your name"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:55
+msgid "Upload Image"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:61
+msgid "Upload an image"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:99
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:127
+msgid "Website URL (optional)"
+msgstr ""
+
+#: .././lib/public/shortcodes/testimonial-submission-form.php:157
+msgid "Submit Testimonial"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:15
+msgid "Place a fade slider in the sidebar of your site."
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:108
+#: .././lib/public/widgets/testimonial-list-widget.php:98
+msgid "Title:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:111
+#: .././lib/public/widgets/testimonial-list-widget.php:101
+msgid "Enter a title for the testimonial widget."
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:125
+#: .././lib/public/widgets/testimonial-list-widget.php:115
+#, php-format
+msgid "Select one of your %s above."
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:127
+#: .././lib/public/widgets/testimonial-list-widget.php:117
+msgid "Number of Testimonials to Display:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:129
+#: .././lib/public/widgets/testimonial-list-widget.php:119
+msgid "Limit the number of testimonials to display."
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:132
+msgid "Animation Type:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:137
+msgid "Select the animation for this slider (fade/slide)."
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:140
+msgid "Hide Controls:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:142
+msgid "Should the arrow controls be displayed below the slider?"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:145
+msgid "Automatic:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:147
+msgid "Should the slider start and transition automatically?"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:150
+msgid "Tesitmonial Duration:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:152
+msgid ""
+"Duration to display a single testimonial before displaying the next one. (in "
+"seconds)"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:157
+#: .././lib/public/widgets/testimonial-list-widget.php:124
+msgid "Display Controls:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:159
+#: .././lib/public/widgets/testimonial-list-widget.php:126
+msgid "Style 1"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:160
+#: .././lib/public/widgets/testimonial-list-widget.php:127
+msgid "Style 2"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:161
+#: .././lib/public/widgets/testimonial-list-widget.php:128
+msgid "Style 3"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:162
+#: .././lib/public/widgets/testimonial-list-widget.php:129
+msgid "Style 4"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:163
+#: .././lib/public/widgets/testimonial-list-widget.php:130
+msgid "Style 5"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:165
+#: .././lib/public/widgets/testimonial-list-widget.php:132
+msgid "Select the style for this slider."
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:173
+#: .././lib/public/widgets/testimonial-list-widget.php:140
+msgid "Override Easy Digital Downloads:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:175
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:187
+#: .././lib/public/widgets/testimonial-list-widget.php:142
+#: .././lib/public/widgets/testimonial-list-widget.php:154
+msgid "False"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:176
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:188
+#: .././lib/public/widgets/testimonial-list-widget.php:143
+#: .././lib/public/widgets/testimonial-list-widget.php:155
+msgid "True"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:178
+#: .././lib/public/widgets/testimonial-list-widget.php:145
+#, php-format
+msgid ""
+"On any Easy Digital Downloads product page, override the testimonial set "
+"above and only display testimonials associated with that product. Set to "
+"false to disable the override and display your specific testimonials. %s"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:185
+#: .././lib/public/widgets/testimonial-list-widget.php:152
+msgid "Override WooCommerce:"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-fade-slider-widget.php:190
+#: .././lib/public/widgets/testimonial-list-widget.php:157
+#, php-format
+msgid ""
+"On any WooCommerce product page, override the testimonial set above and only "
+"display testimonials associated with that product. Set to false to disable "
+"the override and display your specific testimonials. %s"
+msgstr ""
+
+#: .././lib/public/widgets/testimonial-list-widget.php:15
+msgid "Display a list of testimonials in the sidebar of your site."
+msgstr ""
+
+#~ msgid "If"
+#~ msgstr "Si se"

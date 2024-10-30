@@ -1,0 +1,343 @@
+/*
+*	Client and Product Testimonials
+*	Admin stylesheet 
+*	@since 0.1
+*	@By Evan Herman | https://www.evan-herman.com
+*/
+
+body.post-type-testimonial .client-product-testimonial-rating-container {
+	color: goldenrod;
+}
+
+body.post-type-testimonial .rating span.dashicons-star-filled:before {
+	content: "\f155" !important;
+}
+
+body.post-type-testimonial .rating span.dashicons-star-empty:before {
+	content: "\f154" !important;
+}
+
+body.post-type-testimonial .fixed .column-rating {
+	width: auto !important;
+}
+
+body.post-type-testimonial th.column-user_image {
+	width: 120px;
+}
+
+body.post-type-testimonial .testimonial-thumbnail-preview {
+	max-width: 100px;
+	width: 70%;
+	height: auto !important;
+	border-radius: 10px;
+}
+
+.add-testimonial-button .dashicons {
+	font-size: 16px;
+	line-height: 1.7;
+	color: #82878c;
+}
+
+/*
+*	Copy styles over from built in media button icons
+*	so that it conforms to default styles WP bundles
+*/
+@media screen and (max-width: 782px) {
+	.wp-media-buttons .add-testimonial-button span.dashicons-format-quote {
+		width: 22px !important;
+		margin-top: -3px !important;
+		margin-left: -5px !important;
+	}
+}
+
+/*
+*	Shortcode Generator Styles
+*/
+#TB_ajaxContent .capt-shortcode-generator-wrap label.hidden-radio-button {
+	float: left;
+	width: 16.66667%; /* 100% / 6 possible shortcodes */
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap label.capt-tax-checkbox-label {
+	margin-right: 1em;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-options-section {
+	margin: 1.5em 0;
+	-webkit-transition: height .75s ease;
+    -moz-transition: height .75s ease;
+    -o-transition: height .75s ease;
+    transition: height .75s ease;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-options-section .hidden-section,
+#TB_ajaxContent section.shortcode-generator-section.thumbnail-slider-color-picker {	
+	display: none;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-options-section .hidden-section-first {
+	display: block;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .step {
+	display: block;
+	width: 100%;
+	margin: .5em 0;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap label.hidden-radio-button > input { /* HIDE RADIO */
+  display:none !important;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap label > input + img{ /* IMAGE STYLES */
+  cursor: pointer;
+  border: 2px solid transparent;
+  width: 95%;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap label > input:checked + img{ /* (CHECKED) IMAGE STYLES */
+  border: 2px solid rgba(77, 77, 77, 0.33);
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-selection {
+	display: inline-block;
+	width: 100%;
+	margin: 1em 0;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-selection p.sub-text {
+	display: block;
+	text-align: center;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap input.capt-shortcode-input {
+	display: block;
+	width: 100%;
+	margin-top: .75em;
+}
+
+/* Capt Taxonomy Selections */
+#TB_ajaxContent .capt-shortcode-generator-wrap label > input.capt-taxonomy-checkbox {
+	display: inline-block !important;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .capt-taxonomy-selection-container {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+/* Option Sections */
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-generator-options {
+	display: inline-block;
+	width: 100%;
+	margin: .5em 0;
+}
+
+#TB_ajaxContent .capt-shortcode-generator-wrap .shortcode-generator-options .shortcode-generator-section {
+	float: left;
+	width: 49%;
+	margin: 1em 0 .5em 0;
+	min-height: 150px;
+}
+
+.capt-all-taxonomies-checkbox:disabled {
+	opacity: .95 !important;
+}
+
+.image-radius-radio {
+	display: inline-block;
+	width: 45%;
+	margin: 4px 0;
+}
+
+/* Override select 2 styles so it appears over the modal */
+.select2-dropdown {
+	z-index: 1000001;
+}
+
+/* Color Picker shortcode generator section */
+.color-overlay-selection {
+	display: none;
+	margin-top: 1em;
+}
+
+/*
+*	Pending Review Admin Table Notice
+*/
+.capt-pending-review {
+	display: inline-block;
+	padding: 3px 10px;
+	text-align: center;
+	background: rgba(218, 165, 32, 0.60);
+	color: #fff;
+	font-size: 11px;
+}
+	.capt-pending-review:hover {
+		cursor: pointer;
+	}
+	
+	.capt-pending-review .dashicons-star-filled {
+		color: #fff;
+		font-size: 11px;
+		line-height: 1.8;
+		width: 11px;
+	}
+	
+	.cmb2-id--testimonial-details-testimonial-association-value {
+		display: none !important;
+	}
+	
+	/* Override CMB2 description width */
+	.cat_options .cmb-row .cmb-th {
+		width: 200px;
+		max-width: 20% !important;
+	}
+	
+	.cat_options .cmb-row .cmb-td {
+		width: 75% !important;
+	}
+	
+	@media screen and (max-width: 638px) {
+		.cat_options .cmb-row .cmb-th {
+			max-width: 100% !important;
+			width: 100% !important;
+			padding-bottom: 0 !important;
+			padding-left: 10px;
+		}
+		.cat_options .cmb-row .cmb-td {
+			width: 100% !important;
+		}
+	}
+	
+/*
+*	Custom Admin Notice for Pending Review Posts
+*/
+.notice-warning .dashicons-warning {
+	color: #333333;
+	font-size: 16px;
+	line-height: 1.2;
+}
+
+.capt-submission-form-shortcode-input {
+	width: 15%;
+	min-width: 250px;
+	text-align: center;
+}
+	
+	.capt-submission-form-shortcode-input:hover {
+		cursor: pointer;
+	}
+	
+/*
+*	Hide Inline Edit Row Action Button on the post table
+*/
+.post-type-testimonial #posts-filter tr .row-actions .inline {
+	display: none;
+}
+
+/*
+*	Fix the content getting pushed down when color pickers are active
+*	- yep -
+*/
+.capt-shortcode-generator-wrap .wp-picker-holder {
+	position: relative;
+}
+
+.capt-shortcode-generator-wrap .iris-picker {
+	position: absolute;
+	margin-top: -3px;
+}
+
+.capt-shortcode-generator-wrap .thumbnail-slider-color-picker .iris-picker {
+	margin-top: 3px;
+}
+
+/* CAPT footer stars */
+.capt-footer-text-star {
+	font-size: 14px;
+	height: 14px;
+	width: 14px;
+	color: goldenrod;
+	margin-top: 3px;
+}
+
+/*
+*	No testimonials found notice
+*/
+body.wp-admin.post-type-testimonial .no-items td:first-child {
+	font-size: 17px;
+	font-weight: bold;
+	padding: 1em 0;
+	text-align: center; 
+}
+	
+	body.wp-admin.post-type-testimonial .no-items td:first-child .button-secondary {
+		font-weight: 400;
+	}
+	
+	body.wp-admin.post-type-testimonial .no-items td:first-child .button-secondary .dashicons {
+		line-height: 2;
+		font-size: 15px;
+	}
+	
+/*
+*	Video Testimonial Icons (testimonial-edit.php table)
+*/
+.client-and-product-testimonial-video-testimonial-icon { 
+	position: relative;
+	max-width: 20px;
+	margin-left: -20px;
+	border-bottom-right-radius: 10px;
+	opacity: .85;
+}
+
+	.client-and-product-testimonial-video-testimonial-icon:hover { 
+		opacity: 1;
+		transition: opacity .2s ease-in-out;
+		-moz-transition: opacity .2s ease-in-out;
+		-webkit-transition: opacity .2s ease-in-out;
+		-o-transition: opacity .2s ease-in-out;
+	}
+	
+/*
+*	Upgrade to Pro metabox styles
+*/
+.cmb-type-pro-upsell-metabox {
+	padding: 0 !important; 
+	padding-top: .5em !important; 
+	margin:0 !important;
+}
+.cmb-type-pro-upsell-metabox img { 
+	max-width: 100%; 
+	width: 100%; 
+	box-shadow: 2px 1px 10px 1px rgba(51, 51, 51, 0.16);
+}
+.cmb-type-pro-upsell-metabox a { 
+	display: block; 
+	padding: 0 1px;
+}
+.cmb-type-pro-upsell-metabox a:hover img{
+	opacity: .9;
+	transition: opacity .2s ease-out;
+	-moz-transition: opacity .2s ease-out;
+	-webkit-transition: opacity .2s ease-out;
+	-o-transition: opacity .2s ease-out
+}
+div#_testimonial_details_upgrade_to_pro { 
+	background: transparent; 
+	box-shadow: none; 
+	border: none; 
+}
+div#_testimonial_details_upgrade_to_pro .inside {
+	padding: 0;
+}
+div#_testimonial_details_upgrade_to_pro .button-link, 
+div#_testimonial_details_upgrade_to_pro .ui-sortable-handle { 
+	visibility: hidden;
+	opacity: 0;
+	height: 0;
+	padding: 0;
+}
